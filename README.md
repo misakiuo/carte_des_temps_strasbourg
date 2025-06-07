@@ -3,8 +3,8 @@
 Ce projet présente une série de **cartes interactives et statiques** comparant les temps de déplacement à **pied, à vélo, en tram et en voiture** sur le territoire de l'Eurométropole de Strasbourg.
 
 ## 🔍 Objectifs
+ à ajouter 
 
-* A ajouter l'explication du fonctionnement
 ---
 
 ## 🗺️ A. Cartes interactives
