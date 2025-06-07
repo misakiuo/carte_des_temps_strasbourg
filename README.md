@@ -4,7 +4,7 @@ Ce projet présente une série de **cartes interactives et statiques** comparant
 
 ## 🔍 Objectifs
 
-* A ajouter 
+* A ajouter l'explication du fonctionnement
 ---
 
 ## 🗺️ A. Cartes interactives
