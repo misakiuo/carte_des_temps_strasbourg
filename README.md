@@ -33,5 +33,4 @@ Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes 
 
 ---
 
-## 📁 Structure du dépôt
-
+Last update :  07 juin 2025
