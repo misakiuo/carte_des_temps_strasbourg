@@ -33,8 +33,5 @@ Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes 
 
 ---
 
-
----
-
 ## 📁 Structure du dépôt
 
