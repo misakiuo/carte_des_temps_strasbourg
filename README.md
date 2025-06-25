@@ -2,13 +2,12 @@
 
 Dans cette page, vous trouverez les données, une série de la méthodologie ainsi que les résultats cartograohiques 
 comparant les temps de déplacement à **pied, à vélo, en tram et en voiture** sur le territoire de l'Eurométropole de Strasbourg.
-
-## 🔍 Comment utiliser ?
-▷ [Voir l'explication]
-
 ---
 
 ## 🗺️ A. Résultats : Cartes interactives
+
+🔍 Comment utiliser ?
+▷ [Voir l'explication](/autres/howtouse.png)
 
 ### A.1. Strasbourg et ses proches environs  
 Modes : à pied / à vélo / en tram / en voiture  
