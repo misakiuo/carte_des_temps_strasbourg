@@ -28,7 +28,7 @@ Modes : à vélo / en voiture
 
 Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes de transport.
 
-▷ [Voir la page](cartes_statiques_comparaison_1html_7png/cartes_statiques_comparaison.html)
+▷ [Voir la page](cartes_statiques_comparaison_slider/cartes_statiques_comparaison.html)
 
 ---
 
