@@ -20,7 +20,7 @@ Modes : à pied / à vélo / en tram / en voiture
 
 ### A.3. Eurométropole de Strasbourg  
 Modes : à vélo / en voiture  
-▷ [Voir la carte](6_carte_echelle_3_sorities_finales/carte_finale_EPCI.html)
+▷ [Voir la carte](6_carte_echelle_3_sorties_finales/carte_finale_EPCI.html)
 
 ---
 
