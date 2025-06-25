@@ -1,5 +1,4 @@
-# Cartes des temps des déplacements 
-# – Eurométropole de Strasbourg
+# Cartes des temps des déplacements – Eurométropole de Strasbourg
 
 Dans cette page, vous trouverez les données, une série de la méthodologie ainsi que les résultats cartograohiques 
 comparant les temps de déplacement à **pied, à vélo, en tram et en voiture** sur le territoire de l'Eurométropole de Strasbourg.
@@ -13,15 +12,15 @@ comparant les temps de déplacement à **pied, à vélo, en tram et en voiture**
 
 ### A.1. Strasbourg et ses proches environs  
 Modes : à pied / à vélo / en tram / en voiture  
-▷ [Voir la carte](cartes_interactives_3html_0607/carte_finale_centre_1.html)
+▷ [Voir la carte](3_carte_echelle_1_sorities_finales/carte_finale_centre.html)
 
 ### A.2. Strasbourg et son réseau de tram  
 Modes : à pied / à vélo / en tram / en voiture  
-▷ [Voir la carte](cartes_interactives_3html_0607/carte_finale_réseaux_2.html)
+▷ [Voir la carte](3_carte_echelle_2_sorities_finales/carte_finale_réseaux.html)
 
 ### A.3. Eurométropole de Strasbourg  
 Modes : à vélo / en voiture  
-▷ [Voir la carte](cartes_interactives_3html_0607/carte_finale_EPCI_3.html)
+▷ [Voir la carte](6_carte_echelle_3_sorities_finales/carte_finale_EPCI.html)
 
 ---
 
