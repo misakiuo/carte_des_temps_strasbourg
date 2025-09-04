@@ -4,7 +4,7 @@ Dans cette page, vous trouverez les données, une série de la méthodologie ain
 comparant les temps de déplacement à **pied, à vélo, en tram et en voiture** sur le territoire de l'Eurométropole de Strasbourg.
 ---
 
-## 🗺️ A. Résultats : Cartes interactives
+## A. Résultats : Cartes interactives
 
 🔍 Comment utiliser ?
 ▷ [Voir l'explication](/autres/howtouse.png)
@@ -23,7 +23,7 @@ Modes : à vélo / en voiture
 
 ---
 
-## 🗺️ B. Résultats : Cartes statiques
+## B. Résultats : Cartes statiques
 
 Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes de transport.
 
@@ -43,5 +43,7 @@ Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes 
 
 ---
 Mise à jour :  4 septembre 2025
+
 Par : Misaki UOZUMI HARRAULT
+
 Dans le cadre de TER (mémoire) M1 OTG de l'Université de Strasbourg
