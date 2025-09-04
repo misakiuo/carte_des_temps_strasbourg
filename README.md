@@ -39,7 +39,7 @@ Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes 
 
 ##  D. Mémoire & Présentation
 
-▷ [Voir l'explication](/mémoire/)
+▷ [Consulter/Télécharger](/mémoire/)
 
 ---
 Mise à jour :  25 juin 2025
