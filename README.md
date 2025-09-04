@@ -36,6 +36,12 @@ Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes 
 ▷ https://github.com/misakiuo/carte_des_temps_strasbourg/
 
 ---
+
+##  D. Mémoire & Présentation
+
+▷ [Voir l'explication](/mémoire/)
+
+---
 Mise à jour :  25 juin 2025
 Par : Misaki UOZUMI HARRAULT
-Dans le cadre de TER M1 OTG de l'Université de Strasbourg
+Dans le cadre de TER (mémoire) M1 OTG de l'Université de Strasbourg
