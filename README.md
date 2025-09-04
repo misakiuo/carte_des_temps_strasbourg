@@ -42,6 +42,6 @@ Explorez les cartes en déplaçant le curseur latéral pour comparer deux modes 
 ▷ [Télécharger](/mémoire/memoire-index.html)
 
 ---
-Mise à jour :  25 juin 2025
+Mise à jour :  4 septembre 2025
 Par : Misaki UOZUMI HARRAULT
 Dans le cadre de TER (mémoire) M1 OTG de l'Université de Strasbourg
